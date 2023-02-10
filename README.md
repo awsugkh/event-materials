@@ -2,6 +2,9 @@
 Event Materials that we have hosted since July 2022
 - UG meetup July 31st 2022
 - UG community day Oct 16 2022
+- UG meetup x Re:invent Recap Feb 9th 2023
+
+- [Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 
 - [Free training courses via AWS Training & Certification](https://www.aws.training/LearningLibrary?filters=language%3A1&tab=digital_courses)
 - [AWS Getting Started Hands-On Training](https://aws.amazon.com/getting-started/hands-on/)
